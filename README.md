@@ -1,3 +1,3 @@
 # Samosa Selector
 A new twist on the classic Cookie Clicker.
-![Samosa](image.png)
+![Samosa](../samosa-selector/src/assets/samosa.png)
